@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Creating Dr. Doctor"
-date:       2019-11-05 03:04:08 +0000
+title:      "Creating Dr Doctor"
+date:       2019-11-04 22:04:09 -0500
 permalink:  creating_dr_doctor
 ---
 
