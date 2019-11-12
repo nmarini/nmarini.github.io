@@ -1,0 +1,23 @@
+---
+layout: post
+title:      "Why React?"
+date:       2019-11-12 23:42:47 +0000
+permalink:  why_react
+---
+
+
+Frameworks are typically made to optimize and standardize the way in which applications are designed.  
+
+React is a framework that allows developers to make large scale, single-page applications.  The main idea behind React is to be fast, scalable, and simple.  React, or ReactJS, is built entirely out of JavaScript and uses a combination of different features.  
+
+*(1.)* React uses JSX, which is an extension of vanilla JavaScript with a specific syntax allowing you to write code that looks similar to HTML.  
+
+*(2.)* React creates a virtual DOM, which is an in-memory data structure cache that updates the browser based on the changes made in the application.  This allows for fast and efficient content rendering.  
+
+*(3.)* Babel is included in React, which is a transpiler that converts modern JavaScript and JSX into a more compatible version of JavaScript.
+
+*(4.)* React makes use of webpack, which takes the code within the application, along with any required dependency  code, and packages it into one transferable bundle.  
+
+So, why React?  It is simple, easy to learn, and easy to test.  
+
+React applications have a simple design.  React uses a component-based approach where each JSX element represents a different piece (or component) of the application.  All a developer needs to know is JavaScript and HTML to put together these components, and some CSS to style them.  React applications also have great developer tools to help debug.  The React Developer Tools is great for inspecting components and observing their current props and state.  The Redux Developer Tools allows you to observe dispatched actions, current store states, and watch changes to the store store.  React also gets new features added regularly and is actively maintained by Facebook.
