@@ -6,7 +6,7 @@ permalink:  react_component_lifecycles_-_pt_2_lifecycle_hooks_and_rendering
 ---
 
 
-To ensure that the app can quickly react and update when needed, React Components are equipped with** lifecycle hooks** or **lifecycle methods**.  These methods give the developer opportunities to change how the component behaves throughout different points in the component’s lifecycle.  
+To ensure that the app can quickly react and update when needed, React Components are equipped with **lifecycle hooks** or **lifecycle methods**.  These methods give the developer opportunities to change how the component behaves throughout different points in the component’s lifecycle.  
 
 This is where the lifecycle hooks/methods get their name; they are available before the component is created, after it is created, and when it is going to be deleted.  
 
