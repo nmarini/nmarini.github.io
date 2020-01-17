@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Component Lifecycles - pt 2 – Lifecycle Hooks and Rendering "
-date:       2020-01-17 22:36:36 +0000
+date:       2020-01-17 17:36:37 -0500
 permalink:  react_component_lifecycles_-_pt_2_lifecycle_hooks_and_rendering
 ---
 
